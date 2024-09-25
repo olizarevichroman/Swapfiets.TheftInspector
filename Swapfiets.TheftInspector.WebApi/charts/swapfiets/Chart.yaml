@@ -1,0 +1,10 @@
+apiVersion: v2
+name: swapfiets
+description: A Helm chart for Swapfiets Theft Inspector
+
+type: application
+
+version: 1.0.0
+
+appVersion: "1.0.0"
+icon: data:image/svg+xml;base64
